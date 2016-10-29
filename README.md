@@ -30,6 +30,7 @@ Good luck and happy mining!
 You can add to the beer and pizza find here:
 
 tWallet: 
+
 zWallet: zcYApEn9UGi2k7aDWwkzjqhGCjNjeP4qpTLwJC4rBcL1hddDvQT91zDnmNsFCGQLzyYDsCJrJMVdQDV9jiuf82sNQ5zxCiP
 
 Cheers!
