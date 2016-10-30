@@ -14,13 +14,21 @@ This is just a tool that will generate and run a batch file using the above refe
 Instructions:
 
 Select a Type:  CPU or GPU miner
-Connection:  miner address
-Wallet: t or z wallet id
+
+Connection:  miner address - Change this to the pool you want to use.
+
+Wallet: t or z wallet id - Change this to the your wallet
+
 Port: port to connect in your miner address
+
 Threads:  number of threads to run
+
 User: username for pool you connect to
+
 Password:  password for the pool you connect to
+
 Command:  This is the complete command line that gets generated and run when you press Go
+
 Go!: Start mining using your selected type!
 
 I hope that somebody finds this useful.  
